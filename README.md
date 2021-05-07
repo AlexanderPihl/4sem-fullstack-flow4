@@ -14,8 +14,6 @@ Updated continuously
 
 For exercises, please check the folders above or use the list here:
 
-- [Week 1]()
-- [Week 2]()
 - Fullstack startcode [link](https://github.com/AlexanderPihl/fullstack-startcode)
 
 ## MongoDB indexes and Geo-features
